@@ -1,0 +1,2 @@
+:wq
+printf("privet");
